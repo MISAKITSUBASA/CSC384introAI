@@ -1,2 +1,2 @@
 # CSC384introAI
-self learn AI
+UofT intro to AI
